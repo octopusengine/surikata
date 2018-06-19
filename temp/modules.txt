@@ -1,0 +1,45 @@
+[ResponseResult]
+ResultCode=0
+[Install Progress]
+Projek (*) / modul (--)
+
+
+* CryptoMat - RPi 3 / Zero > ESP 32 (mikro platby / vstupy / automaty - zboží, služba, informace)
+* Tickernator - ESP 8266 
+-- ISP - big display module
+------------------------------------------
+
+* IP zásuvka - reset Rigu
+Termostat
+Loger - monitoring teplot / prùchodù / ...
+
+"Centrála" - instalace / nastavení / implementace
+
+-------------------------------------------
+--I2C: exp pro RPi / ESP / Arduino
+- display - OLED / LCD
+- èidla
+- expander 8/16b
+- EEPROM > FW setup / ID / PSW / ...
+- A/D 1/2/4 kan.
+
+-SPI - èidla
+-displej INK.. OLED
+
+- èteèka otiskù
+- RFID 8M/125k
+
+Power management
+- 12>5
+- 5>3.3
+- Lion - nabíjení - a hlídání podbití
+
+
+Mechatronika:
+- mechanické relé / elektromagnet
+- krokové motory
+- serva
+
+
+ 
+ 
