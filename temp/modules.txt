@@ -1,43 +1,46 @@
-[ResponseResult]
-ResultCode=0
-[Install Progress]
-Projek (*) / modul (--)
+Projekt Surikata - IoT - ESP/RPi - uPy/Py
+-----------------------------------------
+Projek (*) / sbÄ›rnice (=) / modul (--)
 
-
-* CryptoMat - RPi 3 / Zero > ESP 32 (mikro platby / vstupy / automaty - zboí, sluba, informace)
-* Tickernator - ESP 8266 
--- ISP - big display module
+vychÃ¡zÃ­ z:
+* CryptoMat (2015) - RPi 3 / Zero > ESP 32 (mikro platby / vstupy / automaty - zboÅ¾Ã­, sluÅ¾ba, informace)
+* Tickernator (2017) - ESP 8266 
+-- ISP - big display module (2018)
 ------------------------------------------
 
-* IP zásuvka - reset Rigu
+* IP zÃ¡suvka - reset Rigu (2017)
 Termostat
-Loger - monitoring teplot / prùchodù / ...
+Loger - monitoring teplot / prÅ¯chodÅ¯ / ...
 
-"Centrála" - instalace / nastavení / implementace
+"CentrÃ¡la" - instalace / nastavenÃ­ / implementace
 
 -------------------------------------------
---I2C: exp pro RPi / ESP / Arduino
+= I2C: exp pro RPi / ESP / Arduino
 - display - OLED / LCD
-- èidla
+- Äidla
 - expander 8/16b
 - EEPROM > FW setup / ID / PSW / ...
 - A/D 1/2/4 kan.
 
--SPI - èidla
--displej INK.. OLED
-
-- èteèka otiskù
+= SPI - Äidla
+- displej INK.. OLED
+- TFT / maxx LED
 - RFID 8M/125k
+- SD memory card
+
+= UART
+- ÄteÄka otiskÅ¯ 
+
 
 Power management
 - 12>5
 - 5>3.3
-- Lion - nabíjení - a hlídání podbití
+- Lion - nabÃ­jenÃ­ - a hlÃ­dÃ¡nÃ­ podbitÃ­
 
 
 Mechatronika:
-- mechanické relé / elektromagnet
-- krokové motory
+- mechanickÃ© relÃ© / elektromagnet
+- krokovÃ© motory
 - serva
 
 
