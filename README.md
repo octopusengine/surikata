@@ -1,7 +1,7 @@
 # surikata
 surikata.info - smart IoT devices 
 
-<img src="https://raw.githubusercontent.com/octopusengine/simple3dscanner/master/temp/sur018.png" alt="surikata18" width="650">
+<img src="https://raw.githubusercontent.com/octopusengine/surikata/master/temp/sur018.png" alt="surikata18" width="650">
 
 Projekt Surikata - IoT - ESP/RPi - uPy/Py
 -----------------------------------------
