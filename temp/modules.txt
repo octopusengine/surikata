@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/octopusengine/simple3dscanner/master/temp/sur018.png" alt="surikata18" width="650">
+
 Projekt Surikata - IoT - ESP/RPi - uPy/Py
 -----------------------------------------
 Projek (*) / sběrnice (=) / modul (--)
