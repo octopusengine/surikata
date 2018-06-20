@@ -1,21 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/octopusengine/simple3dscanner/master/temp/sur018.png" alt="surikata18" width="650">
-
-Projekt Surikata - IoT - ESP/RPi - uPy/Py
------------------------------------------
-Projek (*) / sběrnice (=) / modul (--)
-
-vychází z:
-* CryptoMat (2015) - RPi 3 / Zero > ESP 32 (mikro platby / vstupy / automaty - zboží, služba, informace)
-* Tickernator (2017) - ESP 8266 
--- ISP - big display module (2018)
-------------------------------------------
-
-* IP zásuvka - reset Rigu (2017)
-Termostat
-Loger - monitoring teplot / průchodů / ...
-
-"Centrála" - instalace / nastavení / implementace
 
 -------------------------------------------
 = I2C: exp pro RPi / ESP / Arduino
